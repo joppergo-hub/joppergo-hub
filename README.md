@@ -1,5 +1,5 @@
 ## Hi there 👋
-GitHub初学者です。よろしくお願いします。
+#GitHub初学者です。よろしくお願いします。
 
 <!--
 **joppergo-hub/joppergo-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
